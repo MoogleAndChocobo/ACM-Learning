@@ -1,6 +1,6 @@
 ### 编辑及运行环境
 * 系统: Linux 16.04 LTS
-* .docx: wps-office_10.1.0.5672~a21_amd.deb
+* .docx/.doc: wps-office_10.1.0.5672~a21_amd.deb
 ### 文档格式
 * 文档总标题: 宋体四号、加粗
 * 正文: Calibri、五号
