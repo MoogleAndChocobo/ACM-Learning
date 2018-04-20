@@ -1,3 +1,7 @@
+### v0.0.3.1 / 2018-04-20
+* 新增[KuangbinColumn分类](https://github.com/MoogleAndChocobo/ACM-Learning/tree/master/Training/KuangbinColumn)
+* 新增[KuangbinColumn数论基础code](https://github.com/MoogleAndChocobo/ACM-Learning/tree/master/Training/KuangbinColumn/Column14-FundamentalsOfNumberTheory)
+
 ### v0.0.2.2 / 2018-04-16
 * 新增format描述, 分离readme与format
 * readme添加仓库描述
